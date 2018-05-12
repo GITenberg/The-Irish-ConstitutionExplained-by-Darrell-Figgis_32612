@@ -1,0 +1,31 @@
+_repo: The-Irish-ConstitutionExplained-by-Darrell-Figgis_32612
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Figgis, Darrell
+    alias: Ireland, Michael
+    birthdate: 1882
+    deathdate: 1925
+    gutenberg_agent_id: '35941'
+    url: http://www.gutenberg.org/2009/agents/35941
+    wikipedia: http://en.wikipedia.org/wiki/Darrell_Figgis
+description: ''
+gutenberg_issued: '2010-05-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32612'
+  lccn: '23008239'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Ireland -- Politics and government -- 1922-1949'
+- !lcc 'JN'
+title: 'The Irish Constitution
+
+  Explained by Darrell Figgis'
+url: http://www.gutenberg.org/ebooks/32612
